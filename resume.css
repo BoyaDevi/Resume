@@ -1,0 +1,96 @@
+#col1{
+    background-color: black;
+    height: 200px;
+    width: 1000px;
+    font-family: Gelasio;
+    font-size: 40px;
+    margin-right: 45px;
+    color:white;
+
+}
+
+   
+
+#col3{
+    color: white;
+    font-size: 20px;
+}
+#col4{
+    background-color:gray;
+
+}
+#col6{
+    color: green;
+}
+#col5{
+    color: green;
+    height: 50px;
+    width: 50px;
+}
+#col7{
+    color: green;
+}
+#col8{
+    color: green;
+}
+#col9{
+    color: green;
+    font-size: 32px;
+padding-right: 40px;
+}
+#row1{
+    height: 20px;
+    width: 20px;
+}
+#row2{
+    color: green;
+    font-size: 32px;
+
+}
+#row3{
+    color: black;
+    font-size: 20px;
+    padding-left: 15px;
+    font-size: 16px;
+    border-left: 100px;
+}
+#row4{
+    color: green;
+    border: solid black;
+        border-left: 500px;
+        border-right: 500px;
+        padding-right: 110px;
+        width: 2000px;
+    
+
+}
+    #work{
+        color: black;
+        font-size: 24px;
+    }
+    #para1{
+        color: black;
+        font-size: 16px;
+        padding-left: 300px;
+    }
+    #IT{
+        padding-left: 375px; 
+    }
+    #edu{
+        color: green;
+    border: solid black;
+        border-left: 500px;
+        border-right: 500px;
+        padding-right: 110px;
+        width:1200px;
+        padding-left:30px;
+    
+        
+        
+    }
+    #Bsc{
+        font-size: 20px;
+    }
+        
+        
+    
